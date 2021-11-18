@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "991308881406",
+    "project_id": "helpdesk-398d1",
+    "storage_bucket": "helpdesk-398d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991308881406:android:5aaa5bf895f786738e34af",
+        "android_client_info": {
+          "package_name": "com.edushare.helpdesk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991308881406-ggfg7favpft95jn93jam1cdacrec8r2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDss8ZAQqO5iqFN7sNqIwLmNZFnamYWf3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991308881406-ggfg7favpft95jn93jam1cdacrec8r2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
